@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SimulaWithCharts",
+            "request": "launch",
+            "mainClass": "extensions.SimulaWithCharts",
+            "projectName": "ModelingSimulation_bb9b6017"
+        },
+        {
+            "type": "java",
+            "name": "Launch Simula",
+            "request": "launch",
+            "mainClass": "examples.mm1.Simula",
+            "vmArgs": "-cp libs/xchart-3.5.4.jar:src",
+            "args": [
+                "5.0",
+                "3.0",
+                "100"
+            ],
+            "cwd": "C:/Users/kemal/OneDrive/Skrivbord/uni-material/Simuleringskursen (4DT901)/S1.4 [Lecture] Early Example - Code/ModelingSimulation/"
+        }
+    ]
+}

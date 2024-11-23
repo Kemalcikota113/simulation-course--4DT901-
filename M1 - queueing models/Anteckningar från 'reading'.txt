@@ -1,0 +1,52 @@
+CHAPTER 1
+
+Simple queueing system terminology:
+
+System = The system that the queueing model is based on (reception desk, repair facility, garage, Airport security, hospital etc.)
+
+Customer = an object which is subject to being served in the queueing system (people, Machines, trucks, passengers, patients etc)
+
+Servers = An object which does the serving on the customer (Receptionist, repair person, mechanic, baggage x-ray, nurses etc.)
+
+Arrival rate = Expected number of arrivals in the next unit of time. Think of the 5 patients and one nurse. When all patients have been served and aren't complaining. The arrival rate is at its maximum because any patient could call at any time.
+
+System capacity = the upper bound of customers that can be in the waiting line or system. For example a car wash might only have room for 10 cars. An arriving customer who finds a full system does not enter but returns immidietly to the calling population. But a system for selling tickets for a concert might have unlimited capacity or at least a very big upper bound.
+
+Arrival process = if its random, the interarrival times are characterized by a probability distribution. Poisson distribution is the most important distribution. If the arrivals are scheduled then its easier to model the positive or negative deviations from the scheduled time.'
+
+Pending = When a customer is in the potential calling population.
+
+Times to failure for a given class of machine have beedn characterized by the exponential, the Weibull, and gamma distributions. Models with a exponential runtime are sometimes analytically tractable.
+
+Queue behaviors:
+- Balk = Leave when they see that the line is too long.
+- Renege (leave after being in line when they see that it's moving too slowly.)
+- Jockey (Move from one line to another).
+
+Queue disciplines:
+- FIFO, LIFO, SIRO, SPT, PR.
+
+CHAPTER 2 - QUEUEING NOTATIONS
+
+A/B/c/N/K
+
+A - Interarrival time-istribution
+B - Service-time distribution
+c - Number of parallel servers
+N - System capacity
+K - size of the calling population
+
+common symbols for A and B:
+M - Exponential or Markovian
+D - Constant or deterministic
+E_k - Erlang of order k.
+PH - Phase Type
+H - Hyperexponential
+G - Arbitrary or general
+GI - General or independent.
+
+Example: M/M/1/inf/inf = single server system that has unlimited queue capacity and infinite population of potential arrivals. Interarrival times and service times are exponentially distributed.
+
+
+KAPITEL 3
+

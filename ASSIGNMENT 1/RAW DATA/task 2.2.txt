@@ -1,0 +1,211 @@
+
+RNG for parameters (X_0 = 8, a = 13, m = 16)
+X_0 = 8
+X_1 = 8
+X_2 = 8
+X_3 = 8
+X_4 = 8
+X_5 = 8
+X_6 = 8
+X_7 = 8
+X_8 = 8
+X_9 = 8
+X_10 = 8
+X_11 = 8
+X_12 = 8
+X_13 = 8
+X_14 = 8
+X_15 = 8
+X_16 = 8
+X_17 = 8
+X_18 = 8
+X_19 = 8
+X_20 = 8
+X_21 = 8
+X_22 = 8
+X_23 = 8
+X_24 = 8
+X_25 = 8
+X_26 = 8
+X_27 = 8
+X_28 = 8
+X_29 = 8
+X_30 = 8
+Uniformity test for parameters (X_0 = 8, a = 13, m = 16)
+
+normalized RNGnums: [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]
+
+D: 0.5
+D_alpha: 0.29
+
+The numbers are not uniformly distributed
+
+Autocorrelation test for parameters (X_0 = 8, a = 13, m = 16)
+
+At lag = 1, reject the null hypothesis (Z_0 = 61.7423074859753)
+Significant autocorrelation
+
+At lag = 5, reject the null hypothesis (Z_0 = 64.28798422142538)
+Significant autocorrelation
+
+At lag = 10, reject the null hypothesis (Z_0 = 69.83462608190868)
+Significant autocorrelation
+
+RNG for parameters (X_0 = 8, a = 11, m = 30)
+X_0 = 8
+X_1 = 28
+X_2 = 8
+X_3 = 28
+X_4 = 8
+X_5 = 28
+X_6 = 8
+X_7 = 28
+X_8 = 8
+X_9 = 28
+X_10 = 8
+X_11 = 28
+X_12 = 8
+X_13 = 28
+X_14 = 8
+X_15 = 28
+X_16 = 8
+X_17 = 28
+X_18 = 8
+X_19 = 28
+X_20 = 8
+X_21 = 28
+X_22 = 8
+X_23 = 28
+X_24 = 8
+X_25 = 28
+X_26 = 8
+X_27 = 28
+X_28 = 8
+X_29 = 28
+X_30 = 8
+
+Uniformity test for parameters (X_0 = 8, a = 11, m = 30)
+
+normalized RNGnums: [0.9333333333333333, 0.26666666666666666, 0.9333333333333333, 0.26666666666666666, 0.9333333333333333, 0.26666666666666666, 0.9333333333333333, 0.26666666666666666, 0.9333333333333333, 0.26666666666666666, 0.9333333333333333, 0.26666666666666666, 0.9333333333333333, 0.26666666666666666, 0.9333333333333333, 0.26666666666666666, 0.9333333333333333, 0.26666666666666666, 0.9333333333333333, 0.26666666666666666, 0.9333333333333333, 0.26666666666666666, 0.9333333333333333, 0.26666666666666666, 0.9333333333333333, 0.26666666666666666, 0.9333333333333333, 0.26666666666666666, 0.9333333333333333, 0.26666666666666666]
+
+D: 0.43333333333333335
+D_alpha: 0.29
+
+The numbers are not uniformly distributed
+
+Autocorrelation test for parameters (X_0 = 8, a = 11, m = 30)
+
+At lag = 1, reject the null hypothesis (Z_0 = 216.70339294097215)
+Significant autocorrelation
+
+At lag = 5, reject the null hypothesis (Z_0 = 225.63821913010082)
+Significant autocorrelation
+
+At lag = 10, reject the null hypothesis (Z_0 = 464.19486748562827)
+Significant autocorrelation
+
+RNG for parameters (X_0 = 7, a = 7, m = 16)
+X_0 = 7
+X_1 = 1
+X_2 = 7
+X_3 = 1
+X_4 = 7
+X_5 = 1
+X_6 = 7
+X_7 = 1
+X_8 = 7
+X_9 = 1
+X_10 = 7
+X_11 = 1
+X_12 = 7
+X_13 = 1
+X_14 = 7
+X_15 = 1
+X_16 = 7
+X_17 = 1
+X_18 = 7
+X_19 = 1
+X_20 = 7
+X_21 = 1
+X_22 = 7
+X_23 = 1
+X_24 = 7
+X_25 = 1
+X_26 = 7
+X_27 = 1
+X_28 = 7
+X_29 = 1
+X_30 = 7
+
+Uniformity test for parameters (X_0 = 7, a = 7, m = 16)
+
+normalized RNGnums: [0.0625, 0.4375, 0.0625, 0.4375, 0.0625, 0.4375, 0.0625, 0.4375, 0.0625, 0.4375, 0.0625, 0.4375, 0.0625, 0.4375, 0.0625, 0.4375, 0.0625, 0.4375, 0.0625, 0.4375, 0.0625, 0.4375, 0.0625, 0.4375, 0.0625, 0.4375, 0.0625, 0.4375, 0.0625, 0.4375]
+
+D: 0.5625
+D_alpha: 0.29
+
+The numbers are not uniformly distributed
+
+Autocorrelation test for parameters (X_0 = 7, a = 7, m = 16)
+
+At lag = 1, reject the null hypothesis (Z_0 = 6.5374207926326795)
+Significant autocorrelation
+
+At lag = 5, reject the null hypothesis (Z_0 = 6.806963035209746)
+Significant autocorrelation
+
+At lag = 10, reject the null hypothesis (Z_0 = 27.112266596505723)
+Significant autocorrelation
+
+RNG for parameters (X_0 = 8, a = 7, m = 25)
+X_0 = 8
+X_1 = 6
+X_2 = 17
+X_3 = 19
+X_4 = 8
+X_5 = 6
+X_6 = 17
+X_7 = 19
+X_8 = 8
+X_9 = 6
+X_10 = 17
+X_11 = 19
+X_12 = 8
+X_13 = 6
+X_14 = 17
+X_15 = 19
+X_16 = 8
+X_17 = 6
+X_18 = 17
+X_19 = 19
+X_20 = 8
+X_21 = 6
+X_22 = 17
+X_23 = 19
+X_24 = 8
+X_25 = 6
+X_26 = 17
+X_27 = 19
+X_28 = 8
+X_29 = 6
+X_30 = 17
+
+Uniformity test for parameters (X_0 = 8, a = 7, m = 25)
+
+normalized RNGnums: [0.24, 0.68, 0.76, 0.32, 0.24, 0.68, 0.76, 0.32, 0.24, 0.68, 0.76, 0.32, 0.24, 0.68, 0.76, 0.32, 0.24, 0.68, 0.76, 0.32, 0.24, 0.68, 0.76, 0.32, 0.24, 0.68, 0.76, 0.32, 0.24, 0.68]
+
+D: 0.24
+D_alpha: 0.29
+
+The numbers are uniformly distributed
+
+Autocorrelation test for parameters (X_0 = 8, a = 7, m = 25)
+
+At lag = 1, reject the null hypothesis (Z_0 = 149.27528269665348)
+Significant autocorrelation
+
+At lag = 5, reject the null hypothesis (Z_0 = 146.37491623121403)
+Significant autocorrelation
+
+At lag = 10, reject the null hypothesis (Z_0 = 136.65677809753893)
+Significant autocorrelation
